@@ -26,7 +26,7 @@
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/TS-CLASSROOM-2025.git
+git clone https://github.com/Coolis1362/TS-CLASSROOM-2025.git
 ```
 
 ## TS-CLASSROOM 2025
