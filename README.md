@@ -101,7 +101,7 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under Copyright (C) 2025 Tadeo A Gonzalez. It is intended for educational use only.
 
-About the Developer:
+## About the Developer:
 
 Tadeo A Gonzalez You can reach out for collaboration or feedback:
 
