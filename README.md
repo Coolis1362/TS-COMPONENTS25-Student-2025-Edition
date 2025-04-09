@@ -77,7 +77,7 @@ Report any bugs by sending an email:
 
 [tadeotherocketbuilder@outlook.com](tadeotherocketbuilder@outlook.com)
 
-Future Enhancements:
+## Future Enhancements:
 
 The roadmap includes:
 
@@ -97,7 +97,7 @@ We welcome contributions! Here's how you can help:
 
 - Submit your pull request for review.
 
-License:
+## License:
 
 This project is licensed under Copyright (C) 2025 Tadeo A Gonzalez. It is intended for educational use only.
 
